@@ -5,7 +5,12 @@
       "domain": [
         "wscdn.ml.youngjoygame.com",
         "apd-pcdnwxstat.teg.tencent-cloud.net",
-        "tnc16-alisg.isnssdk.com"
+        "tnc16-alisg.isnssdk.com",
+        "api.catappult.io",
+        "apichain.catappult.io",
+        "proxytest89.moonton.org",
+        "61.moontonsafe.com",
+        "gplog-sg.byteoversea.com"
       ],
       "domain_suffix": [
          "moonton.com",
@@ -13,8 +18,17 @@
          "youngjoygame.com",
          "tencent-cloud.net",
          "teg.tencent-cloud.net"
-      ]
-      
+      ],
+      "ip_cidr": [
+         "198.18.0.0/16",
+         "45.116.13.0/24",
+         "45.116.32.0/24",
+         "38.47.88.0/24",
+         "38.47.90.0/24",
+         "52.220.0.0/16",
+         "54.255.0.0/16",
+         "128.1.82.35/32"
+       ]
     }
   ]
 }

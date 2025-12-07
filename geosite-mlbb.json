@@ -3,7 +3,9 @@
   "rules": [
     {
       "domain": [
-        "apd-pcdnwxstat.teg.tencent-cloud.net"
+        "wscdn.ml.youngjoygame.com",
+        "apd-pcdnwxstat.teg.tencent-cloud.net",
+        "tnc16-alisg.isnssdk.com"
       ],
       "domain_suffix": [
          "moonton.com",
@@ -19,7 +21,13 @@
          "38.47.88.0/24",
          "38.47.90.0/24",
          "52.220.0.0/16",
-         "54.255.0.0/16"
+         "54.255.0.0/16",
+         "128.1.82.35/32",
+         "63.32.236.238/32",
+         "54.228.96.139/32",
+         "54.220.221.192/32",
+         "104.116.243.32/32",
+         "104.116.243.19/32"
        ]
     }
   ]

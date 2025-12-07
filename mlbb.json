@@ -1,9 +1,6 @@
 {
   "rules": [
     {
-      "domain": [
-       "apd-pcdnwxstat.teg.tencent-cloud.net"
-      ],
       "domain_keyword": [
         "moonton",
         "mlbb",
@@ -14,7 +11,8 @@
         "mobilelegends.com",
         "youngjoygame.com",
         "tencent-cloud.net",
-        "teg.tencent-cloud.net"
+        "teg.tencent-cloud.net",
+        "apd-pcdnwxstat.teg.tencent-cloud.net"
       ],
     "ip_cidr": [
         "198.18.0.0/16",

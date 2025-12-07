@@ -1,31 +1,28 @@
-{
-  "version": 3,
-  "rules": [
-    {
-      "domain": [
-        "apd-pcdnwxstat.teg.tencent-cloud.net"
-      ]
-    },
-    {
-      "domain_suffix": [
-        "moonton.com",
-        "mobilelegends.com",
-        "youngjoygame.com",
-        "tencent-cloud.net",
-        "teg.tencent-cloud.net",
-        "apd-pcdnwxstat.teg.tencent-cloud.net"
-      ]
-    },
-    {
-      "ip_cidr": [
-        "198.18.0.0/16",
-        "45.116.13.0/24",
-        "45.116.32.0/24",
-        "38.47.88.0/24",
-        "38.47.90.0/24",
-        "52.220.0.0/16",
-        "54.255.0.0/16"
-      ]
-    }
-  ]
-}
+[
+  {
+    "domain_keyword": [
+      "moonton",
+      "mlbb",
+      "tencent-cloud"
+    ],
+    "domain_suffix": [
+      "moonton.com",
+      "mobilelegends.com",
+      "youngjoygame.com",
+      "tencent-cloud.net",
+      "teg.tencent-cloud.net",
+      "apd-pcdnwxstat.teg.tencent-cloud.net"
+    ]
+  },
+  {
+    "ip_cidr": [
+      "198.18.0.0/16",
+      "45.116.13.0/24",
+      "45.116.32.0/24",
+      "38.47.88.0/24",
+      "38.47.90.0/24",
+      "52.220.0.0/16",
+      "54.255.0.0/16"
+    ]
+  }
+]
